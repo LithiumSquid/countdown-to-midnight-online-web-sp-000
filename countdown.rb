@@ -9,3 +9,8 @@ def countdown(number)
 end
 end 
 end
+
+def countdown_with_sleep 1
+  do countdown
+end
+
