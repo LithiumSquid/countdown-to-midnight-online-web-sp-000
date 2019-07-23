@@ -6,8 +6,7 @@ def countdown(number)
     number -= 1
   until number == 0
     puts "HAPPY NEW YEAR!"
-    break
+  break
 end
 end 
 end
-
