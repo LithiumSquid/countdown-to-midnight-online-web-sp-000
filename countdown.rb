@@ -11,4 +11,6 @@ end
 end 
 end
 
-countdown_with_sleep(countdown)
+def countdown_with_sleep(countdown)
+  do countdown 1
+end
