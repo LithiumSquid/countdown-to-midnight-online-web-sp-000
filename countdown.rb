@@ -10,7 +10,7 @@ end
 end 
 end
 
-def countdown_with_sleep 1
-  do countdown
+def countdown_with_sleep
+  do countdown 1
 end
 
