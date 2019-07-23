@@ -11,8 +11,3 @@ end
 end 
 end
 
-def countdown_with_sleep
-  do countdown 1
-end
-end
-
